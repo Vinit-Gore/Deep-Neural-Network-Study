@@ -1,0 +1,19 @@
+3k-7k:10,0.7
+Area under Curve:0.9632
+Accuracy:0.9633
+Sensitivity:0.9706
+Specificity:0.9722
+Precision:0.9541
+Recall:0.9706
+
+1-4k:
+did not converge.(min. Threshold=0.4139)
+
+1-4k:(stepmax:500000)
+Area under Curve:0.9603
+Accuracy:0.96
+Sensitivity:0.9493
+Specificity:0.9545
+Precision:0.9661
+Recall:0.9493
+
